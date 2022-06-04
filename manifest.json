@@ -3,11 +3,11 @@
     "version":"0.0.1",
     "manifest_version":2,
     "browser_action" : {
-        "default_popup":"popup.html",
-        "default_icon":"logo.png"
+        "default_popup":"index.html",
+        "default_icon":"soup.png"
     },
     "icons":{
-        "128":"logo.png"
+        "128":"soup.png"
     },
     "permissions":["activeTab"]
 }
